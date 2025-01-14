@@ -8,10 +8,11 @@ A simple React website that I made by following along with Javascript mastery on
 * Search For exercises using RapidAPI
 
 ## Live Demo
+[Netlify](https://satyamkr02-gym.netlify.app/)
 
 ## Tech Stack
 
 * React
-* Css
+* Vanilla CSS
 * RapidAPI
 * Netlify (Hosting)
