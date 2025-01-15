@@ -3,7 +3,7 @@ import { Box, Stack, Typography, Button } from '@mui/material';
 import HeroBannerImage from '../assets/images/banner.png';
 
 
-const HeroBanner = () => {
+const HeroBanner = ({ darkMode }) => {
   return (
     <Box sx={{
         mt: { lg:'212px', xs: '70px'},
