@@ -29,8 +29,8 @@ const Detail = ({ exerciseDetail }) => {
           {name}
         </Typography>
         <Typography variant="h6">
-          Exercises keep you strong. {name} {` `}
-          targets your {target}. Do it regularly to improve your {bodyPart} size.
+          The {name}, {` `} which can be performed using { equipment }, {` `}
+          targets your {target}. It would help improve your {bodyPart} size.
         </Typography>
         {extraDetail.map((item) => (
           <Stack key={item.name} direction="row" gap="24px" alignItems="center">
